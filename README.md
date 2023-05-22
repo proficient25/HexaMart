@@ -51,13 +51,7 @@ Rename the `.env.sample` file to .env and replace the Firebase configuration det
 Run `npm start` to start the application
 
 
-# Screenshots
 
-**Authentication page**
-
-![image](https://user-images.githubusercontent.com/81776711/224613171-8b2c9392-5b97-4757-aaed-5e570e51f4a3.png)
-
-![image](https://user-images.githubusercontent.com/81776711/224613223-7ad2a01e-13f6-474a-800b-2133ba0d27a7.png)
 
 
 
