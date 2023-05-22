@@ -60,41 +60,7 @@ Run `npm start` to start the application
 ![image](https://user-images.githubusercontent.com/81776711/224613223-7ad2a01e-13f6-474a-800b-2133ba0d27a7.png)
 
 
-**Home page**
 
-![image](https://user-images.githubusercontent.com/81776711/224613299-feb71146-bec7-4fd2-948b-e776d9701b47.png)
-
-
-**Wishlist page**
-
-![image](https://user-images.githubusercontent.com/81776711/224613383-6fed93fe-c269-4aba-888c-d0a3cf802f0a.png)
-
-
-**Product page**
-
-![image](https://user-images.githubusercontent.com/81776711/224615004-fe0bf691-333f-40f7-90ef-c4f26ebe5395.png)
-
-![image](https://user-images.githubusercontent.com/81776711/224615047-2b015e56-ebdb-44e1-a29d-6fd382b40981.png)
-
-
-**Cart page**
-
-![image](https://user-images.githubusercontent.com/81776711/224614923-de0f913c-6305-4357-8b99-c32de24041b0.png)
-
-
-**Payment page**
-
-![image](https://user-images.githubusercontent.com/81776711/224615321-63c60972-78a4-49b0-8df4-d49a85a6cb86.png)
-
-
-**Orders page**
-
-![image](https://user-images.githubusercontent.com/81776711/224616126-7f3d7bff-e8d5-41dc-adb6-f9f1e6191654.png)
-
-
-**Profile page**
-
-![image](https://user-images.githubusercontent.com/81776711/224616059-925032b3-17a6-481e-80e7-f55016b81a09.png)
 
 
 # UI design inspirations
